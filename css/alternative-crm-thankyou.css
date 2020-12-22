@@ -1,0 +1,57 @@
+/*thankyou css starts here*/
+section.thankyou-message-section{
+    padding: 20px;
+    background-color: #0093dd;
+    /* height:100vh; */
+}
+.thankyou-message1 p{
+    color: #000;
+    text-align: center;
+    margin: 50px auto;
+    font-size: 20px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: rgba(0,0,0,.18) 0.4rem 0.4rem 1.6rem 0;
+}
+.thankyou-message2 h1{
+    color: #fff;
+    text-align: center;
+    margin: 30px auto 0;
+}
+.thankyou-message2 p{
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+}
+.blog-title h1{
+   color: #ffd245;
+   text-align: center;
+   margin: 40px auto 20px;
+}
+.blog-posts-cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.blog-post-card{
+    background-color: #fff;
+    width: 100%;
+    max-width: 300px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(0,0,0,.18) 0.4rem 0.4rem 1.6rem 0;
+}
+img.link-icon{
+    width: 100%;
+    max-width: 50px;
+    margin: 20px auto;
+    display: block;
+}
+.blog-post-card p{
+    color: #0093dd;
+    text-align: center;
+    font-weight: 600;
+}
